@@ -1,0 +1,1 @@
+{"name":"WeatherCast","description":"Ultimate Weather Forecasts","version":"0.1","manifest_version":2,"app":{"background":{"scripts":["background.js"]}},"icons":{"16":"weather-16.png","48":"weather-48.png","72":"weather-72.png","96":"weather-96.png","128":"weather-128.png"},"permissions":["http://weathercast.hamidev.com/"],"packageId":"com.your.company.WeatherCast"}
